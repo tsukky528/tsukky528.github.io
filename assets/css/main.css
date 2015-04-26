@@ -90,8 +90,8 @@ a:after {
 }
 
 .navbar-inverse {
-	padding-bottom: 20px;
-	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 .navbar-inverse {
@@ -130,17 +130,17 @@ a:after {
 /* Helpers */
 
 .mt {
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-top: 0px;
+	margin-bottom: 10px;
 }
 
 .pt {
 	padding-top: 20px;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 
 .pt h2 {
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 
@@ -150,8 +150,8 @@ a:after {
 }
 
 #ww {
-	padding-top: 70px;
-	padding-bottom: 20px;
+	padding-top: 30px;
+	padding-bottom: 10px;
 }
 
 
