@@ -96,7 +96,7 @@ a:after {
 
 .navbar-inverse {
 	background-color: #461B7E;
-	border-color: #16a085;
+	border-color: #461B7E;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -222,15 +222,15 @@ bt {
 }
 
 
-    .zoomOverlay {
-        position:absolute;
-        top:0; left:0;
-        bottom:0; right:0;
-        display:none;
-        background-image:url(../img/zoom.png);
-        background-repeat:no-repeat;
-        background-position:center;
-    }
+.zoomOverlay {
+    position:absolute;
+    top:0; left:0;
+    bottom:0; right:0;
+    display:none;
+    background-image:url(../img/zoom.png);
+    background-repeat:no-repeat;
+    background-position:center;
+}
 
 .zoom2 {
 	opacity: 1;
