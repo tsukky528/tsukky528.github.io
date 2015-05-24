@@ -121,6 +121,11 @@ a:after {
 	border-color: transparent;
 }
 
+.navbar-lang {
+    margin-top: 12px;
+    float: right;
+}
+
 .progress-bar-theme {
   background-color: #461B7E;
 }
